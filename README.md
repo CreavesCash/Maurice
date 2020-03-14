@@ -11,8 +11,8 @@ We plan to branch out to Java, GMS2, and maybe construct whooo knowwws?
 ### Github Bois
 Our current @Github Bois are:
 
-CreavesCash
+•CreavesCash
 
-CrazyAccountName
+•CrazyAccountName
 
-Supereo
+•Supereo
