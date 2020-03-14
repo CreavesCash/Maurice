@@ -7,3 +7,9 @@ Maurice is a coding AI.
 ### About
 Maurice is an AI in open beta created by Alfie and Saul. It is intended to train and make python scripts, using python (whaaat how meta).
 We plan to branch out to Java, GMS2, and maybe construct whooo knowwws?
+
+### Github Bois
+Our current @Github Bois are:
+CreavesCash
+CrazyAccountName
+Supereo
